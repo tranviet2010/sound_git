@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vynilla.iml" filepath="$PROJECT_DIR$/.idea/modules/vynilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vynilla.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vynilla.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1308406936/vynilla.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1308406936/vynilla.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-317536708/vynilla.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-317536708/vynilla.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/420645695/vynilla.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/420645695/vynilla.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1275840687/vynilla.react-native-get-music-files.iml" filepath="$PROJECT_DIR$/.idea/modules/-1275840687/vynilla.react-native-get-music-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1040596817/vynilla.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1040596817/vynilla.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1787636620/vynilla.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1787636620/vynilla.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2016819331/vynilla.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2016819331/vynilla.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1164955624/vynilla.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1164955624/vynilla.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1246392832/vynilla.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1246392832/vynilla.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-183578984/vynilla.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-183578984/vynilla.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-608028278/vynilla.react-native-track-player.iml" filepath="$PROJECT_DIR$/.idea/modules/-608028278/vynilla.react-native-track-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1559129335/vynilla.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1559129335/vynilla.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2100417856/vynilla.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-2100417856/vynilla.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

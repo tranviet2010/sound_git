@@ -1,0 +1,497 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [hermes-debug.aar] /Users/macos/.gradle/caches/transforms-2/files-2.1/705951c884550f13b19e000b8db57fa9/jetified-hermes-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/5846def3e39be8b825feba0a72518016/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/81e67f9eb234a84649322d349f18d438/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-vector-icons] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-reanimated] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a88eafa17d300925ecc16111c10f8ba/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-linear-gradient] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e1e9516eef63a7d22a18af9c1f186b4d/jetified-flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0290e4263432151c39a9f0e3cb1e62e6/jetified-stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/97fcb6e3f1e6d00d9be285e6278a60b4/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a03f0d934188ada0c0326ef8cec42036/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4df93063103b77d9320d688659e91a51/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e121b5b76715092340d8f77c5a284c2f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/d885dd67aaf67b6706026dd1b80fd870/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7f76d1a7f4e14c11606e657ea6721611/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/eb4b8170eb1e6f5b7fc4cbf3c9466ed7/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/769db372b752213d4931935a36b4d1d5/jetified-glide-4.7.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/778a178b623bff6b63b4016f91caac87/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3496c6191c67e7476de308c96e8ebd36/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/macos/.gradle/caches/transforms-2/files-2.1/df0ce5ed64ff6d8d8c721a478dd7141e/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/59d3cabbc08b20f67c62ec3a37b43d8d/jetified-gifdecoder-4.7.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a1c070079c9c1e857dc9dc5243b4098/jetified-FFmpegMediaMetadataRetriever-1.0.14/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/7983fef32416ef18ed8bdf81facc3146/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/110058227f3dde0fd45a25e60334e7bf/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-81
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-81
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-32:19
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a88eafa17d300925ecc16111c10f8ba/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a88eafa17d300925ecc16111c10f8ba/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/eb4b8170eb1e6f5b7fc4cbf3c9466ed7/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/eb4b8170eb1e6f5b7fc4cbf3c9466ed7/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/769db372b752213d4931935a36b4d1d5/jetified-glide-4.7.1/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/769db372b752213d4931935a36b4d1d5/jetified-glide-4.7.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/59d3cabbc08b20f67c62ec3a37b43d8d/jetified-gifdecoder-4.7.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/59d3cabbc08b20f67c62ec3a37b43d8d/jetified-gifdecoder-4.7.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a1c070079c9c1e857dc9dc5243b4098/jetified-FFmpegMediaMetadataRetriever-1.0.14/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a1c070079c9c1e857dc9dc5243b4098/jetified-FFmpegMediaMetadataRetriever-1.0.14/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/7983fef32416ef18ed8bdf81facc3146/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/7983fef32416ef18ed8bdf81facc3146/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:9:7-38
+uses-library#org.apache.http.legacy
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:7-85
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:59-83
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:21-58
+activity#com.vynilla.MainActivity
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:16:7-27:18
+	android:screenOrientation
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:launchMode
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:20:9-39
+	android:windowSoftInputMode
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-debug.aar] /Users/macos/.gradle/caches/transforms-2/files-2.1/705951c884550f13b19e000b8db57fa9/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] /Users/macos/.gradle/caches/transforms-2/files-2.1/705951c884550f13b19e000b8db57fa9/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/5846def3e39be8b825feba0a72518016/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/5846def3e39be8b825feba0a72518016/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/81e67f9eb234a84649322d349f18d438/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/81e67f9eb234a84649322d349f18d438/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a88eafa17d300925ecc16111c10f8ba/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a88eafa17d300925ecc16111c10f8ba/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e1e9516eef63a7d22a18af9c1f186b4d/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e1e9516eef63a7d22a18af9c1f186b4d/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0290e4263432151c39a9f0e3cb1e62e6/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/0290e4263432151c39a9f0e3cb1e62e6/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/97fcb6e3f1e6d00d9be285e6278a60b4/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/97fcb6e3f1e6d00d9be285e6278a60b4/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a03f0d934188ada0c0326ef8cec42036/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a03f0d934188ada0c0326ef8cec42036/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4df93063103b77d9320d688659e91a51/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4df93063103b77d9320d688659e91a51/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e121b5b76715092340d8f77c5a284c2f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/e121b5b76715092340d8f77c5a284c2f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/d885dd67aaf67b6706026dd1b80fd870/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/d885dd67aaf67b6706026dd1b80fd870/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7f76d1a7f4e14c11606e657ea6721611/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/7f76d1a7f4e14c11606e657ea6721611/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/eb4b8170eb1e6f5b7fc4cbf3c9466ed7/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/eb4b8170eb1e6f5b7fc4cbf3c9466ed7/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/54bfc5b629ab063b236b358a8da4bd9c/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/769db372b752213d4931935a36b4d1d5/jetified-glide-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/769db372b752213d4931935a36b4d1d5/jetified-glide-4.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/81ec65fe9c26b4c9a52779021a5107ed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/fe7ad5c5f8622be9f18d8f564c1bbb7e/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/778a178b623bff6b63b4016f91caac87/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/778a178b623bff6b63b4016f91caac87/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3496c6191c67e7476de308c96e8ebd36/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3496c6191c67e7476de308c96e8ebd36/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/macos/.gradle/caches/transforms-2/files-2.1/df0ce5ed64ff6d8d8c721a478dd7141e/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0-alpha01] /Users/macos/.gradle/caches/transforms-2/files-2.1/df0ce5ed64ff6d8d8c721a478dd7141e/localbroadcastmanager-1.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/59d3cabbc08b20f67c62ec3a37b43d8d/jetified-gifdecoder-4.7.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/59d3cabbc08b20f67c62ec3a37b43d8d/jetified-gifdecoder-4.7.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a1c070079c9c1e857dc9dc5243b4098/jetified-FFmpegMediaMetadataRetriever-1.0.14/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/macos/.gradle/caches/transforms-2/files-2.1/5a1c070079c9c1e857dc9dc5243b4098/jetified-FFmpegMediaMetadataRetriever-1.0.14/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/7983fef32416ef18ed8bdf81facc3146/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/macos/.gradle/caches/transforms-2/files-2.1/7983fef32416ef18ed8bdf81facc3146/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/110058227f3dde0fd45a25e60334e7bf/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/110058227f3dde0fd45a25e60334e7bf/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-78
+MERGED from [:react-native-get-music-files] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-get-music-files/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3496c6191c67e7476de308c96e8ebd36/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/3496c6191c67e7476de308c96e8ebd36/jetified-exoplayer-core-2.10.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-55
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:64
+	android:resource
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-61
+	android:name
+		ADDED from [:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-74
+service#com.guichaguri.trackplayer.service.MusicService
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-24:19
+	android:enabled
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-75
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-23:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-74
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from [:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:19-76
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/macos/.gradle/caches/transforms-2/files-2.1/b97e3773cf431a5e82cdaffe19da1b60/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

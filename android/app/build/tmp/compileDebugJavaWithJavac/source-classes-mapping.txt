@@ -1,0 +1,14 @@
+com/vynilla/MainActivity.java
+ com.vynilla.MainActivity
+com/vynilla/MainApplication.java
+ com.vynilla.MainApplication
+ com.vynilla.MainApplication$1
+com/vynilla/BuildConfig.java
+ com.vynilla.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/vynilla/ReactNativeFlipper.java
+ com.vynilla.ReactNativeFlipper
+ com.vynilla.ReactNativeFlipper$1
+ com.vynilla.ReactNativeFlipper$2
+ com.vynilla.ReactNativeFlipper$2$1

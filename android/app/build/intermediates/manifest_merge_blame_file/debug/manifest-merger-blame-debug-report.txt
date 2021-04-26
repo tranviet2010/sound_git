@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vynilla"
+4    android:versionCode="6"
+5    android:versionName="3.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:5:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:6:5-81
+14-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.33.1] /Users/macos/.gradle/caches/transforms-2/files-2.1/b21eef3f371558c5d78015ea2778dd0e/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+16-->[:react-native-community_netinfo] /Users/macos/Desktop/SoundSpice-mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->[:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+17-->[:react-native-maps] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+18-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-65
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required to access Google Play Licensing -->
+19-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-77
+19-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-74
+20    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+20-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+20-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/2d547673e05a0f4359ea410021e8e7c2/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+25
+26    <application
+26-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:8:5-29:19
+27        android:name="com.vynilla.MainApplication"
+27-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:9:7-38
+28        android:allowBackup="false"
+28-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:13:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.2.0-beta01] /Users/macos/.gradle/caches/transforms-2/files-2.1/1af4c765477baf76af593e8be5ee39e4/core-1.2.0-beta01/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:11:7-41
+32        android:label="@string/app_name"
+32-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:10:7-39
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:12:7-52
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme"
+35-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:14:7-38
+36        android:usesCleartextTraffic="true" >
+36-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/debug/AndroidManifest.xml:7:18-53
+37        <uses-library
+37-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:7-85
+38            android:name="org.apache.http.legacy"
+38-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:21-58
+39            android:required="false" />
+39-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:15:59-83
+40
+41        <activity
+41-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:16:7-27:18
+42            android:name="com.vynilla.MainActivity"
+42-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:17:9-37
+43            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+43-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:19:9-86
+44            android:label="@string/app_name"
+44-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:18:9-41
+45            android:launchMode="singleTop"
+45-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:20:9-39
+46            android:screenOrientation="portrait"
+46-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:21:9-45
+47            android:windowSoftInputMode="adjustResize" >
+47-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:22:9-51
+48            <intent-filter>
+48-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:23:9-26:25
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:24:13-65
+49-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:24:21-62
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:25:13-73
+51-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:25:23-70
+52            </intent-filter>
+53        </activity>
+54        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+54-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:28:7-84
+54-->/Users/macos/Desktop/SoundSpice-mobile/android/app/src/main/AndroidManifest.xml:28:17-81
+55
+56        <provider
+56-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+57            android:name="cl.json.RNShareFileProvider"
+57-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-55
+58            android:authorities="com.vynilla.rnshare.fileprovider"
+58-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-72
+59            android:exported="false"
+59-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+60            android:grantUriPermissions="true" >
+60-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+61            <meta-data
+61-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:64
+62                android:name="android.support.FILE_PROVIDER_PATHS"
+62-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+63                android:resource="@xml/share_download_paths" />
+63-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-61
+64        </provider> <!-- The main service, handles playback, playlists and media buttons -->
+65        <service
+65-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-24:19
+66            android:name="com.guichaguri.trackplayer.service.MusicService"
+66-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-75
+67            android:enabled="true"
+67-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-35
+68            android:exported="true" >
+68-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-36
+69            <intent-filter>
+69-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-23:29
+70                <action android:name="android.intent.action.MEDIA_BUTTON" />
+70-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-77
+70-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-74
+71            </intent-filter>
+72        </service> <!-- A receiver that will receive media buttons. Required on pre-lollipop devices -->
+73        <receiver android:name="androidx.media.session.MediaButtonReceiver" >
+73-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-31:20
+73-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:19-76
+74            <intent-filter>
+74-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-23:29
+75                <action android:name="android.intent.action.MEDIA_BUTTON" />
+75-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:17-77
+75-->[:react-native-track-player] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-track-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:25-74
+76            </intent-filter>
+77        </receiver>
+78
+79        <provider
+79-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+80            android:name="com.RNFetchBlob.Utils.FileProvider"
+80-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+81            android:authorities="com.vynilla.provider"
+81-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+82            android:exported="false"
+82-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+83            android:grantUriPermissions="true" >
+83-->[:rn-fetch-blob] /Users/macos/Desktop/SoundSpice-mobile/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+84            <meta-data
+84-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:64
+85                android:name="android.support.FILE_PROVIDER_PATHS"
+85-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+86                android:resource="@xml/provider_paths" />
+86-->[:react-native-share] /Users/macos/Desktop/SoundSpice-mobile/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-61
+87        </provider>
+88
+89        <activity
+89-->[com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+90-->[com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+91            android:exported="false"
+91-->[com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.android.gms:play-services-base:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/af7ff4cdb9585a03f0fe804445629944/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:17.0.0] /Users/macos/.gradle/caches/transforms-2/files-2.1/937c5050898784d30c656655e5f36fd6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+97    </application>
+98
+99</manifest>
